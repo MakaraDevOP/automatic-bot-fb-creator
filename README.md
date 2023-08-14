@@ -5,3 +5,4 @@ This build for learning Python with Selenium
  - Copy video from tiktok to reels
  - Set time to excecute
 
+# 2 day project
